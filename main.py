@@ -12,7 +12,7 @@ import json
 
 # Telegram bot token
 
-API_TOKEN = "5433945629:AAGrpohL9C-cwLsZ-ZC9S9LyN-tP9niDl4k"
+API_TOKEN = "5551569596:AAFgaJtsdYg5NW1b9xD8hfx76zIITi23Lnk"
 
 # Configure logging
 
@@ -38,7 +38,7 @@ async def send_welcome(message: types.Message):
 
     """
 
-    await message.reply("Бот для пробива, DEV: @cphyowner")
+    await message.reply("Бот для пробива, test)
 
 # This is the main probiv function that returns a json and formats it, then sends it
 
