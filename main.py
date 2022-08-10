@@ -38,7 +38,7 @@ async def send_welcome(message: types.Message):
 
     """
 
-    await message.reply("Бот для пробива, test)
+    await message.reply("Бот для пробива, test")
 
 # This is the main probiv function that returns a json and formats it, then sends it
 
