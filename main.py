@@ -7,7 +7,7 @@ import requests
 import json
 
 # Telegram bot token
-API_TOKEN = "___TELEGRAM_API_TOKEN___"
+API_TOKEN = "5551569596:AAFgaJtsdYg5NW1b9xD8hfx76zIITi23Lnk"
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
